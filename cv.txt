@@ -1,0 +1,50 @@
+Hector Alexis Delgado Abril 
+
++57 3145852269 – Email – GitHub – LinkedIn
+Perfil Profesional 
+Estudiante de Ingeniería de Sistemas con interés en el desarrollo de software, especialmente en desarrollo de aplicaciones web y móviles, arquitectura de software y desarrollo Full Stack. Cuenta con experiencia utilizando tecnologías como Java, Spring Boot, React, Next.js, NestJS, TypeScript, React Native y Go, trabajando en entornos frontend, backend y desarrollo móvil. Actualmente se desempeña como Desarrollador Full Stack, participando en el desarrollo y mantenimiento de soluciones de software. Como proyecto de grado, desarrolló un sistema orientado a la gestión y trazabilidad de datos, y de forma independiente desarrolló Ducki, una aplicación móvil de red social pensada para la comunidad universitaria. Se caracteriza por su capacidad de aprendizaje, trabajo en equipo y resolución de problemas en entornos de desarrollo tecnológico. 
+Educación  
+Universidad Icesi                                                                                                                                    Ingeniería de Sistemas 
+ 
+Formación Complementaria / Técnica o tecnológica                                                                                            
+ 
+Scrum Foundation Professional Certification (SFPC) – CertiProf                                                                       Febrero 2024 
+ 
+ 
+Google Cloud Courses – Google Cloud                                                                                                                    Agosto 2025 
+ 
+
+
+Experiencia Laboral  
+ 
+Pistis (Cali, Colombia)  
+Desarrollador Full Stack 							Febrero 2026 – 31 de agosto de 2026 
+•	Desarrollé y mantuve funcionalidades de frontend y backend para una aplicación, contribuyendo a la mejora continua del producto. 
+•	Implementé componentes y servicios utilizando tecnologías como Java, Spring Boot, React, Next.js, NestJS y TypeScript. 
+•	Participé en el diseño e integración de APIs y servicios backend, asegurando la comunicación eficiente entre los diferentes módulos del sistema. 
+•	Colaboré en la implementación de nuevas funcionalidades, corrección de errores y optimización del rendimiento de la aplicación. 
+
+
+
+
+Proyectos relevantes 
+ 
+•	Ducki – Desarrollador Full Stack (React Native / Go) – 2026 Aplicación móvil para una red social orientada a la comunidad universitaria, donde los estudiantes pueden comunicarse, expresar ideas y conectar con otras personas. Desarrollada con React Native en el frontend móvil y Go en el backend. 
+•	Sistema de Trazabilidad para Auditoría de Datos en Salud – Desarrollador – Enero 2026 – Actualidad Desarrollo de un sistema orientado a la auditoría y trazabilidad de datos en el sector salud, enfocado en la gestión y seguimiento de información. 
+•	Waterfount Abogados  Desarrollador de Software – 2026-1 
+Proyecto desarrollado para la empresa cliente Waterfount Abogados, enfocado en la construcción de soluciones tecnológicas para la gestión y optimización de procesos. 
+•	TalentHub – Desarrollador Backend / Frontend – 2025 
+Participación en el desarrollo de funcionalidades backend y frontend para una plataforma orientada a la gestión y conexión de talento. 
+•	InventoryPro (SaaS) – Desarrollador de Software – 2025 
+Desarrollo de una solución SaaS para la gestión de inventarios, orientada a la administración, control y seguimiento de productos. 
+ 
+Competencias e intereses 
+Habilidades Técnicas: 
+Java, TypeScript, JavaScript, HTML5, CSS3, Spring Boot, React, React Native, Next.js, NestJS, Go, desarrollo Full Stack, desarrollo de aplicaciones web, desarrollo de aplicaciones móviles, desarrollo de APIs, arquitectura de software, Git, Trello, Notion y Google Workspace. 
+Habilidades Personales: 
+Trabajo en equipo, comunicación asertiva, pensamiento analítico, resolución de problemas, capacidad de aprendizaje continuo y adaptación a entornos tecnológicos. 
+Idiomas: 
+Español – Nativo 
+Inglés – Intermedio (B2) 
+Intereses: 
+Desarrollo de software, aprendizaje de nuevas tecnologías, computación en la nube, arquitectura de software y participación en proyectos tecnológicos. 
