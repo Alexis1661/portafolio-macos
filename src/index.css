@@ -62,3 +62,18 @@ html, body, #root {
 
 /* Tipografía de la ventana */
 .window-body h1 { letter-spacing: -0.02em; }
+
+/* Cursor estilo macOS (flecha y mano) — solo en dispositivos con puntero fino */
+@media (pointer: fine) {
+  :root {
+    --cursor-arrow: image-set(url('/cursor/arrow.png') 1x, url('/cursor/arrow@2x.png') 2x) 2 2, auto;
+    --cursor-hand: image-set(url('/cursor/hand.png') 1x, url('/cursor/hand@2x.png') 2x) 9 2, pointer;
+  }
+  html, body, button, [role='button'], [role='menuitem'], select, label, .window-drag {
+    cursor: var(--cursor-arrow);
+  }
+  a, a *, .cursor-hand {
+    cursor: var(--cursor-hand);
+  }
+  input, textarea, [contenteditable] { cursor: text; }
+}
