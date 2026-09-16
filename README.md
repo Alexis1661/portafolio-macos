@@ -29,7 +29,7 @@ npm run cv:pdf   # regenerar public/cv.pdf a partir de src/data
 | Repositorios de GitHub (Finder y ventanas de tecnología) | `src/data/github.ts` |
 | Tecnologías del escritorio       | `src/data/tech.ts`                       |
 | Apps del Dock y tamaños de ventana | `src/data/apps.ts`                     |
-| Fondo de pantalla                | `public/wallpaper.png`                   |
+| Fondo de pantalla                | `public/wallpaper.webp`                   |
 | PDF del CV                       | `public/cv.pdf` (o `npm run cv:pdf`)     |
 | Miniaturas de proyectos (SVG)    | `src/components/icons/ProjectThumb.tsx`  |
 | Iconos de apps (SVG)             | `src/components/icons/AppIcon.tsx`       |

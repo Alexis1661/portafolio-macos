@@ -33,7 +33,7 @@ export function AboutApp() {
 
       <div className="mt-7 overflow-hidden rounded-2xl bg-[#8b8b8f]">
         <img
-          src="/wallpaper.png"
+          src="/wallpaper.webp"
           alt="Avatar de Alexis Delgado"
           className="aspect-[16/9] w-full object-cover object-[50%_28%]"
           draggable={false}

@@ -41,7 +41,7 @@ export function Desktop() {
     <div className="relative h-full w-full overflow-hidden bg-[#3a3a3c]">
       {/* Fondo de pantalla: sin modificar, cubriendo toda la pantalla */}
       <motion.img
-        src="/wallpaper.png"
+        src="/wallpaper.webp"
         alt=""
         aria-hidden="true"
         draggable={false}
@@ -51,9 +51,9 @@ export function Desktop() {
         className="no-select pointer-events-none absolute inset-0 h-full w-full object-cover object-[50%_35%]"
       />
 
-      {/* Nombre decorativo a la derecha del fondo (public/name.png) */}
+      {/* Nombre decorativo a la derecha del fondo (public/name.webp) */}
       <motion.img
-        src="/name.png"
+        src="/name.webp"
         alt="Alexis Delgado"
         draggable={false}
         initial={{ opacity: 0, x: 24 }}

@@ -41,7 +41,7 @@ export function ContactApp() {
     <div className="px-6 pb-8 pt-2 sm:px-8">
       <div className="flex items-center gap-4">
         <div className="h-16 w-16 shrink-0 overflow-hidden rounded-full bg-[#8b8b8f] ring-2 ring-black/10">
-          <img src="/wallpaper.png" alt="" className="h-full w-full scale-[1.9] object-cover object-[50%_30%]" draggable={false} />
+          <img src="/wallpaper.webp" alt="" className="h-full w-full scale-[1.9] object-cover object-[50%_30%]" draggable={false} />
         </div>
         <div>
           <h1 className="text-[26px] font-bold leading-tight text-[#1d1d1f]">{profile.shortName}</h1>

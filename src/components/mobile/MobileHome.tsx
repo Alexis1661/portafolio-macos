@@ -174,7 +174,7 @@ export function MobileHome() {
   return (
     <div className="relative h-full w-full overflow-hidden bg-[#3a3a3c]">
       <motion.img
-        src="/wallpaper.png"
+        src="/wallpaper.webp"
         alt=""
         aria-hidden="true"
         draggable={false}
